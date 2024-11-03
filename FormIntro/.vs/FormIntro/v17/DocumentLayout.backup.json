@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\",
+  "WorkspaceRootPath": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|c:\\users\\azwad\\downloads\\compressed\\fall24_a-master\\formintro\\formintro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|f:\\sem 11\\adv dotnet\\advanced-dot-net\\formintro\\formintro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|solutionrelative:formintro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\formintro\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\formintro\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|solutionrelative:formintro\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\formintro\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\formintro\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|solutionrelative:formintro\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\formintro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\formintro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B68B0C-581C-4BDB-8302-36569AF934D9}|FormIntro\\FormIntro.csproj|solutionrelative:formintro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\Models\\Student.cs",
+              "DocumentMoniker": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\Models\\Student.cs",
               "RelativeDocumentMoniker": "FormIntro\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\Models\\Student.cs",
+              "ToolTip": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\Models\\Student.cs",
               "RelativeToolTip": "FormIntro\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\Views\\Student\\Create.cshtml",
+              "DocumentMoniker": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "FormIntro\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\Views\\Student\\Create.cshtml",
+              "ToolTip": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "FormIntro\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "FormIntro\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\App_Start\\RouteConfig.cs",
+              "ToolTip": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "FormIntro\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "FormIntro\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\azwad\\Downloads\\Compressed\\Fall24_A-master\\FormIntro\\FormIntro\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\sem 11\\ADV Dotnet\\Advanced-Dot-net\\FormIntro\\FormIntro\\Controllers\\StudentController.cs",
               "RelativeToolTip": "FormIntro\\Controllers\\StudentController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAQwBAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
