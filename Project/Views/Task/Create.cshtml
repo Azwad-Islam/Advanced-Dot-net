@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<form method="post">
+
+    <input type="text" name="TaskName" value="@Model.TaskName" class="form-control" placeholder="Task Name" />
+    <span class="text-danger">@Html.ValidationMessage("Task Name")</span>
+    <input type="text" name="Description" value="@Model.Description" class="form-control" placeholder="Description" />
+    <span class="text-danger">@Html.ValidationMessage("Description")</span>
+    <input type="datetime" name="Deadline" value="@Model.Deadline" class="form-control" placeholder="Deadline" />
+    <span class="text-danger">@Html.ValidationMessage("Deadline")</span>
+    <input type="number" name="Status" value="@Model.Status" class="form-control" placeholder="Status" />1 for done 2 for undone
+    <span class="text-danger">@Html.ValidationMessage("Deadline")</span>
+    <input type="submit" value="Create" class="btn btn-success" />
+</form>

@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Details";
+}
+@{ var user = (TaskManagementSystem.EF.User)Session["user"];}
+@if
+    (user != null && user.Role == 2)
+{<a href="@Url.Action("Create", "Task", new { UserId = Model.UserId })">Create Task</a>
+}
+
+<h2>Details</h2>
+<input type="hidden" name="UserId" value="@Model.UserId" />
+<h1>@Model.Name</h1>
+<h5>@Model.Email</h5>
